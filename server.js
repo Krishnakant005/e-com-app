@@ -33,7 +33,7 @@ const server = express();
 //   optionsSuccessStatus: 200, // For legacy browser support
 // };
 server.use(cors());
-server.use(cors(corsOptions));
+//server.use(cors(corsOptions));
 server.use(express.json());
 //server.use(bodyParser.json());
 server.use(express.urlencoded({ extended: true }));
