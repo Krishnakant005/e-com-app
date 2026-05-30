@@ -1,0 +1,78 @@
+1. npm init
+2. npm i express
+//APILIST
+  1. Products
+  2. Get Products
+  3. Add a Products
+  4. Get one Products
+  5. Rate Products
+3. nvm i body-parser 
+4. mullter installation proper 
+5. Add Item to cart
+6.Get Item of cart
+7.Remove items from cart.
+
+UserController 
+Signup- Email, Name, Password,TypesOfUser(customer, seller) - done 
+SignIn - (Email, Password) -done
+ npm i jwtwebtoken
+ npm i swagger-ui-express
+ npm  i cors
+
+
+ Folder Structure 
+  Route Structure
+  Creating APIs 
+  Different API Methods 
+  Middleware 
+  Route Parameters 
+  Query Parameters
+  Testing api using postman
+  Securing API using jwtwebtoken
+  Documenting API using swagger
+  CORS 
+Logging 
+Error Handing
+  now we leads to connect to database 
+  npm i mongodb
+  npm i bcrypt
+  npm i dotenv
+its in mongosh 
+
+ecomdb> db.products.aggregate([
+... {
+... $unwind: "$ratings"
+... },
+... {
+... $group:{
+... _id : "$name",
+... averageRating : {$avg : "ratings.rating"}
+... }
+... }
+... ])
+[ { _id: 'horses', averageRating: null } ]
+
+db.products.aggregate([
+  //1. Project name of product, and countOfRating
+  {
+    $project: { name: 1, countOfRating: {
+    $cond: {  if: {  $isArray: "$ratings"  },
+          then: { $size: "$ratings"  },else: 0 }  }}
+  },
+   //2. sort the collection 
+   {
+    $sort :{ countOfRating: -1}
+   },
+   {
+    //3. limit to just 1 item in result
+     $limit :1
+   }
+
+])
+about transcation 
+mkdir mongodb-data
+mongodb-replSet rs0-dbpath=mongodb-data
+// you can check rs.status()
+rs.initiate()
+// now it's mongoose
+npm i mongoose

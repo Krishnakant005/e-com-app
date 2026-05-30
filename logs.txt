@@ -1,0 +1,188 @@
+2026-05-20T00:14:46.690Z /api/users/signin- {"email":"seller@example.com","password":"admin123"}
+{"level":"info","message":"/api/cartItems- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/cartItems- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/cartItems- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/rate?userID=2&productID=1&rating=5- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/rate?userID=2&productID=1&rating=5- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/rate?userID=12&productID=1&rating=5- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/rate?userID=12&productID=1&rating=5- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/users/signup- {\"email\":\"customer@example.com\",\"password\":\"user123\",\"name\":\"Seller User\",\"type\":\"Seller\"}"}
+{"level":"info","message":"/api/users/signup- {\"email\":\"customer1@example.com\",\"password\":\"user123\",\"name\":\"Seller User2\",\"type\":\"Seller 2\"}"}
+{"level":"info","message":"/api/users/signup- {\"email\":\"customer3@example.com\",\"password\":\"user123\",\"name\":\"Seller User3\",\"type\":\"Seller 3\"}"}
+{"level":"info","message":"/api/users/signup- {\"email\":\"customer3@example.com\",\"password\":\"user123\",\"name\":\"Seller User3\",\"type\":\"Seller 3\"}"}
+{"level":"info","message":"/api/users/signup- {\"email\":\"customer4@example.com\",\"password\":\"user123\",\"name\":\"seller4\",\"type\":\"seller\"}"}
+{"level":"info","message":"/api/products/- undefined"}
+{"level":"info","message":"/api/users/signup- {\"email\":\"customer4@example.com\",\"password\":\"user123\"}"}
+{"level":"info","message":"/api/users/signup- {\"email\":\"customer4@example.com\",\"password\":\"user123\"}"}
+{"level":"info","message":"/api/users/signup- {\"email\":\"customer4@example.com\",\"password\":\"user123\"}"}
+{"level":"info","message":"/api/users/signup- {\"email\":\"customer4@example.com\",\"password\":\"user123\"}"}
+{"level":"info","message":"/api/products/- undefined"}
+{"level":"info","message":"/api/users/signup- {\"email\":\"customer4@example.com\",\"password\":\"user123\"}"}
+{"level":"info","message":"/api/products/- undefined"}
+{"level":"info","message":"/api/products/- undefined"}
+{"level":"info","message":"/api/products/- undefined"}
+{"level":"info","message":"/api/products/- undefined"}
+{"level":"info","message":"/api/products/- undefined"}
+{"level":"info","message":"/api/products/6a145a7b1bcc6bb075eccd49- undefined"}
+{"level":"info","message":"/api/products/filter?minPrice=20000- undefined"}
+{"level":"info","message":"/api/products/filter?minPrice=20000- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=5- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=5- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=5- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=5- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=5- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=5- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=5- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=5- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=5- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=5- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=5- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=5- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=5- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=3- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=3- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=3- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=4- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=8- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=8- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=8- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=8- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=8- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=8- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a145a7b1bcc6bb075eccd49&rating=8- undefined"}
+{"level":"info","message":"/api/products- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a1594f5b138b360e879dc32&rating=5- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a1594f5b138b360e879dc32&rating=5- undefined"}
+{"level":"info","message":"/api/products/- undefined"}
+{"level":"info","message":"/api/products- undefined"}
+{"level":"info","message":"/api/products- undefined"}
+{"level":"info","message":"/api/products- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a15973ffe4818911f5673ad&rating=5- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a15973ffe4818911f5673ad&rating=6- undefined"}
+{"level":"info","message":"/api/products/rate?productID=6a15973ffe4818911f5673ad&rating=3- undefined"}
+{"level":"info","message":"/api/products/rate- {\"productID\":\"6a15973ffe4818911f5673ad\",\"rating\":3.2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15ad22d120f62d6b435b8c\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15a8697193e6a421252c80\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15a8697193e6a421252c80\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems/6a15ad22d120f62d6b435b8c- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems/6a15a8697193e6a421252c80- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems/6a15ad22d120f62d6b435b8c- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems/- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/cartItems/- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":6}"}
+{"level":"info","message":"/api/cartItems/- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":6}"}
+{"level":"info","message":"/api/cartItems/- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":6}"}
+{"level":"info","message":"/api/cartItems/- {\"productID\":\"6a15974cfe4818911f5673ae\",\"quantity\":6}"}
+{"level":"info","message":"/api/products/filter?category=cat1&minPrice=90000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?category=cat1&minPrice=90000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?category=cat1&minPrice=90000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?category=cat1&minPrice=90000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?category=cat1&minPrice=90000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/- undefined"}
+{"level":"info","message":"/api/products- undefined"}
+{"level":"info","message":"/api/products/filter?category=cat1&minPrice=90000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?category=cat1&minPrice=90000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?category=cat1&minPrice=9000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?category=cat3&minPrice=9000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?category=cat3&minPrice=9000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?category=cat3&minPrice=9000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?category=cat3&minPrice=9000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?categories=cat3&minPrice=9000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?categories=cat3&minPrice=9000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?categories=[%27cat1%27,%27cat2%27]&minPrice=9000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?categories=[%27cat1%27,%27cat2%27]&minPrice=9000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?categories=[%27cat1%27,%27cat2%27]&minPrice=9000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/filter?categories=[%27cat1%27,%27cat2%27]&minPrice=9000- {\"email\":\"customer@example.com\",\"passsword\":\"user123\"}"}
+{"level":"info","message":"/api/products/averagePrice- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/products/averagePrice- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/products/averagePrice- {\"productID\":\"6a15973ffe4818911f5673ad\",\"quantity\":2}"}
+{"level":"info","message":"/api/orders- undefined"}
+{"level":"info","message":"/api/orders- undefined"}
+{"level":"info","message":"/api/orders- undefined"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15974cfe4818911f5673ae\",\"quantity\":6}"}
+{"level":"info","message":"/api/orders- undefined"}
+{"level":"info","message":"/api/orders- undefined"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15973ffe4818911f5673ad\",\"rating\":3.2}"}
+{"level":"info","message":"/api/orders- undefined"}
+{"level":"info","message":"/api/products/- undefined"}
+{"level":"info","message":"/api/products/- undefined"}
+{"level":"info","message":"/api/orders- undefined"}
+{"level":"info","message":"/api/cartItems- {\"productID\":\"6a15974cfe4818911f5673ae\",\"quantity\":6}"}
+{"level":"info","message":"/api/users/signup- {\"name\":\"kking\",\"email\":\"kking@example.com\",\"passsword\":\"kking123@\"}"}
+{"level":"info","message":"/api/users/signup- {\"name\":\"kking\",\"email\":\"kking@example.com\",\"passsword\":\"kking123@\"}"}
+{"level":"info","message":"/api/users/signup- {\"name\":\"kking\",\"email\":\"kking@example.com\",\"password\":\"kking123@\"}"}
+{"level":"info","message":"/api/users/signup- {\"name\":\"kking\",\"email\":\"kking@example.com\",\"password\":\"kking123@\"}"}
+{"level":"info","message":"/api/user/resetPassword- {\"newPassword\":\"krishna005@\"}"}
+{"level":"info","message":"/api/users/resetPassword- {\"newPassword\":\"krishna005@\"}"}
+{"level":"info","message":"/api/users/resetPassword- {\"newPassword\":\"krishna005@\"}"}
+{"level":"info","message":"/api/users/resetPassword- {\"newPassword\":\"krishna005@\"}"}
+{"level":"info","message":"/api/users/resetPassword- {\"newPassword\":\"krishna005@\"}"}
+{"level":"info","message":"/api/users/resetPassword- {\"newPassword\":\"krishna005@\"}"}
+{"level":"info","message":"/api/products/rate- {\"productID\":\"6a184c64696ee744715148e8\",\"rating\":4}"}
+{"level":"info","message":"/api/products/rate- {\"productID\":\"6a184c64696ee744715148e8\",\"rating\":4}"}
+{"level":"info","message":"/api/products/- undefined"}
+{"level":"info","message":"/api/products/- undefined"}
+{"level":"info","message":"/api/products/rate- {\"productID\":\"6a18eb7a56de587f75b278e2\",\"rating\":4}"}
+{"level":"info","message":"/api/products/rate- {\"productID\":\"6a18eb7a56de587f75b278e2\",\"rating\":4}"}
+{"level":"info","message":"/api/products/rate- {\"productID\":\"6a18eb7a56de587f75b278e2\",\"rating\":4}"}
+{"level":"info","message":"/api/products/rate- {\"productID\":\"6a18eb7a56de587f75b278e2\",\"rating\":4}"}
+{"level":"info","message":"/api/products/rate- {\"productID\":\"6a18eb7a56de587f75b278e2\",\"rating\":4}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"desc\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"desc\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"desc\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/products- {\"name\":\"Amazon Kindle\",\"description\":\"E-book reader by Amazon\",\"price\":99.99,\"categories\":\"6a1986a950ab9d5d4cce7622,6a1986a950ab9d5d4cce7623\"}"}
+{"level":"info","message":"/api/likes- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"//api/likes/- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"//api/likes/- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"//api/likes- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes?id=6a1995ae59e4421732cb6c79&type=Product- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes?Iid=6a1995ae59e4421732cb6c79&type=Product- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes?Iid=6a1995ae59e4421732cb6c79&type=Product- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes?Iid=6a1995ae59e4421732cb6c79&type=Product- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes?Iid=6a1995ae59e4421732cb6c79&type=Product- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
+{"level":"info","message":"/api/likes?Iid=6a1995ae59e4421732cb6c79&type=Product- {\"type\":\"Product\",\"id\":\"6a1995ae59e4421732cb6c79\"}"}
