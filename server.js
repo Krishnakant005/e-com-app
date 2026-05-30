@@ -28,10 +28,11 @@ const server = express();
 //   res.header("Access-Control-Allow-Headers", "Content-Type, Authorization");
 //   next();
 // });
-var corsOptions = {
-  origin: "http://localhost:5500",
-  optionsSuccessStatus: 200, // For legacy browser support
-};
+// var corsOptions = {
+//   origin: "http://localhost:5500",
+//   optionsSuccessStatus: 200, // For legacy browser support
+// };
+server.use(cors());
 server.use(cors(corsOptions));
 server.use(express.json());
 //server.use(bodyParser.json());
@@ -84,7 +85,8 @@ server.use((req, res) => {
 });
 //6.start the server
 // connectToMongoDB();
-server.listen(3200, () => {
-  console.log("Server is running on port 3200");
+const PORT = process.env.PORT || 3200;
+server.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
   connectUsingMongoose();
 });
